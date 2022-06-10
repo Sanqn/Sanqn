@@ -1,6 +1,6 @@
 # 👨‍💻 About me
 
-My name is Alex, I'm python developer
+Hi,My name is Alex, I'm python developer.
 
 # 🧐 Find Me
 * 💻 linkedin: https://www.linkedin.com/in/davidchik/
