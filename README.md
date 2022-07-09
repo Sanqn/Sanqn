@@ -2,7 +2,7 @@
 
 Hi,My name is Alex, I'm studing the Python.
 
-# 🧐 Find Me
+# 🧐 Find Me)
 * 💻 linkedin: https://www.linkedin.com/in/davidchik/
 * 📧 email: alex.davidchik@gmail.com
 
